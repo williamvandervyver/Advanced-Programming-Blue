@@ -1,0 +1,14 @@
+\\pn-ictfs03.uict.nz\HDrive\24373833\Local\Documents\AdvancedProgramming\Week5\bin\Debug\net8.0\Week5.exe
+\\pn-ictfs03.uict.nz\HDrive\24373833\Local\Documents\AdvancedProgramming\Week5\bin\Debug\net8.0\Week5.deps.json
+\\pn-ictfs03.uict.nz\HDrive\24373833\Local\Documents\AdvancedProgramming\Week5\bin\Debug\net8.0\Week5.runtimeconfig.json
+\\pn-ictfs03.uict.nz\HDrive\24373833\Local\Documents\AdvancedProgramming\Week5\bin\Debug\net8.0\Week5.dll
+\\pn-ictfs03.uict.nz\HDrive\24373833\Local\Documents\AdvancedProgramming\Week5\bin\Debug\net8.0\Week5.pdb
+\\pn-ictfs03.uict.nz\HDrive\24373833\Local\Documents\AdvancedProgramming\Week5\obj\Debug\net8.0\Week5.GeneratedMSBuildEditorConfig.editorconfig
+\\pn-ictfs03.uict.nz\HDrive\24373833\Local\Documents\AdvancedProgramming\Week5\obj\Debug\net8.0\Week5.AssemblyInfoInputs.cache
+\\pn-ictfs03.uict.nz\HDrive\24373833\Local\Documents\AdvancedProgramming\Week5\obj\Debug\net8.0\Week5.AssemblyInfo.cs
+\\pn-ictfs03.uict.nz\HDrive\24373833\Local\Documents\AdvancedProgramming\Week5\obj\Debug\net8.0\Week5.csproj.CoreCompileInputs.cache
+\\pn-ictfs03.uict.nz\HDrive\24373833\Local\Documents\AdvancedProgramming\Week5\obj\Debug\net8.0\Week5.dll
+\\pn-ictfs03.uict.nz\HDrive\24373833\Local\Documents\AdvancedProgramming\Week5\obj\Debug\net8.0\refint\Week5.dll
+\\pn-ictfs03.uict.nz\HDrive\24373833\Local\Documents\AdvancedProgramming\Week5\obj\Debug\net8.0\Week5.pdb
+\\pn-ictfs03.uict.nz\HDrive\24373833\Local\Documents\AdvancedProgramming\Week5\obj\Debug\net8.0\Week5.genruntimeconfig.cache
+\\pn-ictfs03.uict.nz\HDrive\24373833\Local\Documents\AdvancedProgramming\Week5\obj\Debug\net8.0\ref\Week5.dll
